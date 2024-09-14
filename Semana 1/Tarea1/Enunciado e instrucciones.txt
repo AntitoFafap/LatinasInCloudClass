@@ -1,0 +1,43 @@
+1. Imprimir un mensaje:
+Escribe un programa que imprima "Hola, Python".
+2. Sumar dos números:
+Escribe un programa que solicite dos números al usuario y luego imprima la suma.
+3. Número par o impar:
+Escribe un programa que solicite un número al usuario e indique si es par o impar.
+4. Área de un triángulo:
+Escribe un programa que calcule el área de un triángulo, dado su base y altura.
+5. Intercambio de valores:
+Escribe un programa que intercambie los valores de dos variables.
+6. Conversión de temperatura:
+Escribe un programa que convierta una temperatura de grados Celsius a Fahrenheit.
+7. Números consecutivos:
+Escribe un programa que imprima los números del 1 al 10 en orden.
+8. Suma de una lista:
+Escribe un programa que sume todos los números de una lista.
+9. Número mayor:
+Escribe un programa que solicite tres números y determine cuál es el mayor.
+10. Invertir una cadena:
+Ejercicios semana 1
+Escribe un programa que tome una cadena y la imprima al revés.
+11. Contador de vocales:
+Escribe un programa que cuente cuántas vocales hay en una cadena dada.
+12. Adivina el número:
+Escribe un programa donde el usuario tenga que adivinar un número entre 1 y 10.
+13. Factorial:
+Escribe un programa que calcule el factorial de un número.
+14. Números pares en una lista:
+Escribe un programa que imprima todos los números pares de una lista dada.
+15. Tablas de multiplicar:
+Escribe un programa que imprima la tabla de multiplicar del 1 al 10 para un número dado
+por el usuario.
+16. Conversión de horas a segundos:
+Escribe un programa que convierta una cantidad de horas dada por el usuario a segundos.
+17. Suma de dígitos:
+Escribe un programa que tome un número entero y calcule la suma de sus dígitos.
+18. Verificar palíndromo:
+Escribe un programa que verifique si una cadena es un palíndromo (se lee igual de
+izquierda a derecha que de derecha a izquierda).
+19. Imprimir números impares:
+Escribe un programa que imprima todos los números impares entre 1 y 20.
+20. Contador de palabras:
+Escribe un programa que cuente el número de palabras en una frase dada por el usuario.
